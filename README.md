@@ -1,6 +1,7 @@
 
 ![Screenshot 2024-04-21 222256](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/7563a2f0-2307-4ed1-ab82-344b43e5c333)
-![Screenshot 2024-04-21 222256](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/f28ae989-4b48-42a2-b14f-a709463188d9)
+![Screenshot 2024-04-21 222312](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/8b00d3ee-24be-4b4f-83ad-7de47e4cd976)
+
 
 ![Screenshot 2024-04-21 222320](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/abd30562-f427-425a-b1d5-847e7abf8320)
 
