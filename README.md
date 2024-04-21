@@ -1,6 +1,10 @@
+
+![Screenshot 2024-04-21 222320](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/83440a60-b988-443a-89ac-857a0f3a646f)
+![Screenshot 2024-04-21 222312](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/4af3de29-167f-4350-8ff2-23f91a3023e0)
+![Screenshot 2024-04-21 222256](https://github.com/tahaburaksahin/BrickBreaker/assets/99183230/7cb5e783-297d-4602-a14b-a6dbdb9b8b0a)
+
+
 # Breakout Ball Game
-
-
 
 This project is a simple implementation of the classic Breakout Ball game developed using Java Swing. In this game, players control a paddle to bounce a ball and break bricks. It's a fun and addictive game that tests your reflexes and aiming skills.
 
