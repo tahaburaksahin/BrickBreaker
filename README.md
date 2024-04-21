@@ -1,6 +1,6 @@
 # Breakout Ball Game
 
-![Breakout Ball](breakout_ball_screenshot.png)
+
 
 This project is a simple implementation of the classic Breakout Ball game developed using Java Swing. In this game, players control a paddle to bounce a ball and break bricks. It's a fun and addictive game that tests your reflexes and aiming skills.
 
@@ -32,16 +32,8 @@ This project is a simple implementation of the classic Breakout Ball game develo
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by the classic Breakout game.
 - Developed for educational purposes.
-
-## Contact
-
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
 
